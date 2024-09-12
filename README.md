@@ -35,7 +35,7 @@ This project uses SQL for data extraction and R for visual analysis to investiga
 Future Work
 •	Incorporatate additional variables such as specific referee tendencies or game context (e.g., scoreline, match importance). 
 •	Apply machine learning models (e.g., classification) to predict yellow and red card occurrences.
-•	Cluster referees based on their decision-making patterns.
+-	Cluster referees based on their decision-making patterns.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 ### Explanation of Changes:
