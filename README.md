@@ -31,7 +31,7 @@
 -	For red cards, the percentage was even lower, with around 43% shown to the home team.
 -	The findings suggest that being the home team does influence referee decisions, although this bias appears to be decreasing over time.
 ### Future Work
-=	Incorporatate additional variables such as specific referee tendencies or game context (e.g., scoreline, match importance). 
+- Incorporatate additional variables such as specific referee tendencies or game context (e.g., scoreline, match importance). 
 -	Apply machine learning models (e.g., classification) to predict yellow and red card occurrences.
 -	Cluster referees based on their decision-making patterns.
 ### License
