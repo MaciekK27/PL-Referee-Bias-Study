@@ -1,5 +1,5 @@
 Premier League Referee Bias Analysis
-Overview
+### Overview
 This project aims to analyze whether being the home team in a Premier League match influences referee decisions, specifically in the awarding of yellow and red cards. The analysis leverages both SQL for data extraction and R for visualization and further analysis.
 Files in this Repository
 -	sql_code.sql: Contains SQL queries used to extract and analyze data from the Premier League matches database.
